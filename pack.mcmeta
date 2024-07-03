@@ -1,0 +1,8 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "supported_formats": [48,48],
+    "id": "namester.mc-shutdown",
+    "description": "Automatic server shutdown datapack by Namester/Nmstr"
+  }
+}
