@@ -1,5 +1,5 @@
 # Check if there are players online
-execute if entity @a run scoreboard players set shutdownTimer shutdown 10
+execute if entity @a run scoreboard players set shutdownTimer shutdown 300
 
 # If the timer is running (i.e., players are online), decrement the timer
 execute if score shutdownTimer shutdown matches 1.. run scoreboard players remove shutdownTimer shutdown 1
