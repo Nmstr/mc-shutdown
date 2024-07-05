@@ -67,4 +67,4 @@ In the newly created directory there should be 5 files in total (4 files, 1 dire
 
 6. In the `load.mcfuntion` file, change the number at the end of the 5th line to the amount of seconds you want the server to wait before it shuts down. For example, if you want the server to wait 5 minutes before shutting down, change the number to 300.
 
-7. In the 'shutdown.mcfunction' file, change the number at the end of the 2nd line to the same number you changed to in the load.mcfuntion file.
+7. In the `shutdown.mcfunction` file, change the number at the end of the 2nd line to the same number you changed to in the load.mcfuntion file.
